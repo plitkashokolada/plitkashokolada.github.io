@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+li{
+    margin-bottom: 50px;
+}
+
+article{
+color:white;
+}
+
+body{
+margin-left: 900px;
+margin-right:900px ;
+background-color: black;
+}
+body {
+    font-family: "RocknRoll One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  header{
+    gap: 50px;
+    display: flex;
+    align-items: center;
+    height:35%;
+color: whites;
+background-color: red;
+  }
+  footer{
+
+    background-color: red;
+    height:35%;
+      }
+
+.Youtube{
+    margin-top: 500px;
+    color: black;
+}
+.Telegram{
+    margin-bottom: 50px;
+    color: black;
+}
+a{
+ color: black;
+  text-decoration: none;
+}
+
